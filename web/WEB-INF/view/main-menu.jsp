@@ -16,6 +16,8 @@
 <img src="${pageContext.request.contextPath}/resources/images/logo.png" width="900" height="520">
 <h2 id="title">Spring MVC</h2>
 <hr>
-<a href="showForm">Show Form</a>
+<a href="hello/showForm">Show Form</a>
+<br><br>
+<a href="student/showForm">Student Form</a>
 </body>
 </html>
