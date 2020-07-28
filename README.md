@@ -4,3 +4,4 @@
 
 - jstl
 - spring 5
+- hibernate validator
